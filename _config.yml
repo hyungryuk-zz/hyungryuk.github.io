@@ -17,10 +17,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/hyungryuk2
-    github:  https://github.com/hyungryuk
-    linkedIn: https://www.linkedin.com/in/hyungryuk-kim-317271119/
-    instagram: https://www.instagram.com/hyungryuk/
+    twitter: hyungryuk2
+    github:  hyungryuk
+    linkedIn: in/hyungryuk-kim-317271119/
+    instagram: hyungryuk/
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
