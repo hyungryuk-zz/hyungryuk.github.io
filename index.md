@@ -1,6 +1,6 @@
 ### 소개
 
-![김형륙](myPic.JPG)
+![김형륙](https://github.com/hyungryuk/hyungryuk.github.io/blob/master/myPic.JPG)
 
 - 이름 : 김형륙
 - 이메일 : hyungryug@gmail.com
