@@ -1,5 +1,5 @@
 <p align="center">
-  <font size="10">김형륙</font>
+  <font size="5">김형륙</font>
 </p>
 
 ![My Pic](https://github.com/hyungryuk/hyungryuk.github.io/blob/master/myPic.JPG)
