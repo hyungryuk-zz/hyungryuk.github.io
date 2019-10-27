@@ -1,8 +1,10 @@
-<p align="center">
-  <font size="5"><b>김형륙</b></font>
-</p>
-
+### 소개
 ![My Pic](https://github.com/hyungryuk/hyungryuk.github.io/blob/master/myPic.JPG)
+- 이름 : 김형륙
+- 이메일 : hyungryug@gmail.com
+- github : [https://github.com/hyungryuk](https://github.com/hyungryuk)
+
+
 
 ### Markdown
 
