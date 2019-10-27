@@ -1,6 +1,6 @@
 # 개발자 김형륙
 
-![My Pic](myPic.jpeg)
+![My Pic](myPic.JPG)
 
 ### Markdown
 
