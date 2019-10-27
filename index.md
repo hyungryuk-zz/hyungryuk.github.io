@@ -1,4 +1,6 @@
-# 개발자 김형륙
+<p align="center">
+# 김형륙
+</p>
 
 ![My Pic](https://github.com/hyungryuk/hyungryuk.github.io/blob/master/myPic.JPG)
 
