@@ -1,6 +1,6 @@
 # 개발자 김형륙
 
-![My Pic](myPic.JPG)
+![My Pic](https://github.com/hyungryuk/hyungryuk.github.io/blob/master/myPic.JPG)
 
 ### Markdown
 
